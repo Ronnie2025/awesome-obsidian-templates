@@ -24,5 +24,6 @@ Please [contribute](https://docs.github.com/en/pull-requests/collaborating-with-
 ## Content creation
 
 - [XHS Obsidian Workflow Starter](https://github.com/Ronnie2025/xhs-obsidian-workflow-starter) - Free Obsidian workflow starter for Xiaohongshu post planning, checklists, and publishing packs.
+- [Xiaohongshu Content Brief template](Xiaohongshu%20Content%20Brief%20template.md) - Reusable note template for turning source notes into RedNote/Xiaohongshu titles, carousel plans, captions, and review checklists.
 
 Made with love by [louis030195](https://brain.louis030195.com)
